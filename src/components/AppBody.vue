@@ -3,7 +3,7 @@
 		<div class="main-container">
 			<comment-area v-on:add-comment="addComment"></comment-area>
 			<hr>
-			<comment-wrap :comments="comments"></comment-wrap>
+			<comment-wrap v-bind:comments="comments"></comment-wrap>
 		</div>
 	</main>
 </template>
