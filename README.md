@@ -36,3 +36,4 @@ For detailed explanation on how things work, checkout the [guide](http://vuejs-t
 
 # 更新
 1. `v1.0` 一个用Vue写的评论页
+
